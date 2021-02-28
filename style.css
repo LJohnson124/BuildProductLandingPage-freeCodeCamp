@@ -117,6 +117,7 @@ nav {
     line-height: 1.6em;
     width: 100%;
     padding: 7px;
+    border-radius: 3px;
 }
 
 #form input[type="submit"] {
