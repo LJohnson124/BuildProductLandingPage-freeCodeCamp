@@ -121,3 +121,9 @@ nav {
 button {
     max-width: 600px;
 }
+
+.fa, .fas {
+    color: white;
+    transform: scale(2);
+    padding: 20px;
+}
